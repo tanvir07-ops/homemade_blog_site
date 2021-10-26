@@ -18,7 +18,7 @@ p {
 /* for centering all-content */
 
 .container {
-  max-width: 1165px;
+  max-width: 1100px;
   margin: 0 auto;
 }
 
@@ -183,7 +183,7 @@ aside h4 {
   align-self: center;
   justify-self: center;
   position: relative;
-  top: -520px;
+  top: -480px;
   left: 35px;
 }
 
